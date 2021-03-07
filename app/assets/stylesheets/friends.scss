@@ -1,0 +1,43 @@
+// Place all the styles related to the friends controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+// styles for forms
+h1#new {
+    font-size: 120%;
+    margin-top: 15px;
+    margin-bottom: -10px;
+}
+
+h1#edit {
+    font-size: 120%;
+    margin-top: 15px;
+}
+
+div.field, div.actions {
+    margin-bottom: 10px;
+}
+
+// alerts style
+div.destroy {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+// navbar styles
+nav.navbar {
+    font-size: 80%;
+}
+
+li.d-flex {
+    margin-left: auto;
+}
+
+// search button
+button.button {
+    border-radius: 5px;
+}
+
+ul.navbar-nav {
+    width: 95vw;
+}
